@@ -1,0 +1,16 @@
+{
+  "name": "@gregoryfoster/stori_es",
+  "version": "0.0.1",
+  "description": "stori.es node SDK",
+  "author": "gregoryfoster <gregoryfoster@users.noreply.github.com> (http://entersection.com/)",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.4.2",
+    "entities": "^1.1.1",
+    "gramophone": "^0.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://gregoryfoster@github.com/stori_es-node-sdk.git"
+  }
+}
