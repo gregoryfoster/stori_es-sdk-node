@@ -1,16 +1,12 @@
 {
-  "name": "@gregoryfoster/stori_es",
+  "name": "@gregoryfoster/stori_es-sdk",
   "version": "0.0.1",
   "description": "stori.es node SDK",
-  "author": "gregoryfoster <gregoryfoster@users.noreply.github.com> (http://entersection.com/)",
+  "author": "gregoryfoster <gregoryfoster@users.noreply.github.com>",
   "main": "index.js",
-  "dependencies": {
-    "async": "^1.4.2",
-    "entities": "^1.1.1",
-    "gramophone": "^0.0.3"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+ssh://gregoryfoster@github.com/stori_es-node-sdk.git"
+    "url": "git+ssh://gregoryfoster@github.com/stori_es-sdk-node.git"
   }
 }

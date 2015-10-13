@@ -71,7 +71,7 @@ Stori_es.prototype.performRequest = function( method, endpoint, data, success ){
     response.on('end', function(){
       if( response.statusCode == 200 ){
         var json = JSON.parse(responseBody);
-        if( options.debug )   console.log('  * ' + json.meta.status + ' [ HTTP/1.1 ' + json.meta.http_code + ' ] ' + endpoint);
+        if( options.debug )  console.log('  * ' + json.meta.status + ' [ HTTP/1.1 ' + json.meta.http_code + ' ] ' + endpoint);
         if( options.debug )  console.log(responseBody);
         success(json);
       } else {
