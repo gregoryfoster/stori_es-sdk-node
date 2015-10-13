@@ -1,4 +1,6 @@
-# Created by https://www.gitignore.io/api/node,linux,osx,archives,textmate
+test.js
+
+# https://www.gitignore.io/api/node,linux,osx,archives,textmate
 
 ### Node ###
 # Logs
