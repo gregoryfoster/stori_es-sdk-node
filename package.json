@@ -1,5 +1,5 @@
 {
-  "name": "@gregoryfoster/stori_es-sdk",
+  "name": "stori_es-sdk",
   "version": "0.0.1",
   "description": "stori.es node SDK",
   "author": "gregoryfoster <gregoryfoster@users.noreply.github.com>",
